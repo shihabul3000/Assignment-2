@@ -1,7 +1,7 @@
 # Vehicle Rental System
 
 ## Live URL
-[https://actual-work-file-989k62osb-alubaumalus-projects.vercel.app/](https://actual-work-file-989k62osb-alubaumalus-projects.vercel.app/)
+ https://actual-work-file.vercel.app/
 
 ## Features
 The Vehicle Rental System is a robust backend API designed to manage vehicle rentals efficiently. Key features include:
@@ -92,5 +92,5 @@ The server will run on the specified port (default: 5000).
   - `PUT /api/v1/bookings/:bookingId` - Update booking (Customer/Admin)
 
 ## Live Deployment
-The application is deployed and accessible at: [https://actual-work-file-989k62osb-alubaumalus-projects.vercel.app/](https://actual-work-file-989k62osb-alubaumalus-projects.vercel.app/)
+The application is deployed and accessible at:  https://actual-work-file.vercel.app/
 
